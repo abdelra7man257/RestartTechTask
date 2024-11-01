@@ -75,8 +75,8 @@ fun MainQuestionsScreen(modifier: Modifier = Modifier) {
 
     }
 }
-//@Preview
-//@Composable
-//fun TestTool(modifier: Modifier = Modifier) {
-//    TooltipOverLay(MainContent = { MainQuestionsScreen() } , focusedItem = { })
-//}
+
+@Preview
+@Composable
+fun TestTool(modifier: Modifier = Modifier) {
+}
